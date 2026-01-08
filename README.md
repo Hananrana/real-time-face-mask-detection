@@ -8,3 +8,10 @@ The system detects human faces from live video streams and classifies each face 
 
 The primary focus of this project is practical deployment, real-time inference performance, and clean system design rather than only model accuracy.
 
+## Key Features
+
+- Real-time face detection from webcam or video streams  
+- Deep learning–based face mask classification  
+- Bounding boxes with class labels and confidence scores  
+- Lightweight CNN model optimized for speed  
+- Modular and readable code structure
