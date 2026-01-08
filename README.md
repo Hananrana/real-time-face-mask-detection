@@ -15,3 +15,11 @@ The primary focus of this project is practical deployment, real-time inference p
 - Bounding boxes with class labels and confidence scores  
 - Lightweight CNN model optimized for speed  
 - Modular and readable code structure
+
+## Tech Stack
+
+- Python  
+- OpenCV  
+- TensorFlow / Keras  
+- NumPy  
+- Scikit-learn
