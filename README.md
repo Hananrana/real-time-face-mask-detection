@@ -1,3 +1,5 @@
+
+
 # Real-Time Face Mask Detection using Deep Learning
 A real-time computer vision system that detects whether a person is wearing a face mask using deep learning and OpenCV.
 
@@ -55,3 +57,16 @@ Add:
 2. Detected face regions are preprocessed and resized.
 3. A convolutional neural network (CNN) classifies each face as **Mask** or **No Mask**.
 4. The prediction and confidence score are displayed on the video stream in real time.
+
+
+
+
+## Dataset
+
+The model is trained on a publicly available face mask detection dataset containing images of people with and without face masks.
+
+- Two classes: `With Mask`, `Without Mask`
+- Images are resized and normalized
+- Data augmentation is applied to improve generalization
+
+> Note: The dataset is not included in this repository.
