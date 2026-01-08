@@ -23,3 +23,18 @@ The primary focus of this project is practical deployment, real-time inference p
 - TensorFlow / Keras  
 - NumPy  
 - Scikit-learn
+
+## Project Structure
+
+```text
+real-time-face-mask-detection/
+│
+├── data/               # Dataset (not included in repository)
+├── model/              # Trained model files
+├── results/            # Output images / demo GIFs
+│
+├── train.py            # Model training script
+├── detect.py           # Real-time mask detection
+├── utils.py            # Helper functions
+├── requirements.txt    # Project dependencies
+└── README.md
