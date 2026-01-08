@@ -42,11 +42,11 @@ real-time-face-mask-detection/
 └── README.md
 
 
-#This signals **software engineering discipline**.
+##This signals **software engineering discipline**.
 
 ---
 
-# STEP 6 — HOW IT WORKS (Core Logic)
+## STEP 6 — HOW IT WORKS (Core Logic)
 
 Add:
 
