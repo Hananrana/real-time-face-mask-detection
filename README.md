@@ -38,3 +38,20 @@ real-time-face-mask-detection/
 ├── utils.py            # Helper functions
 ├── requirements.txt    # Project dependencies
 └── README.md
+
+
+This signals **software engineering discipline**.
+
+---
+
+# STEP 6 — HOW IT WORKS (Core Logic)
+
+Add:
+
+```markdown
+## How It Works
+
+1. Faces are detected from each video frame using OpenCV.
+2. Detected face regions are preprocessed and resized.
+3. A convolutional neural network (CNN) classifies each face as **Mask** or **No Mask**.
+4. The prediction and confidence score are displayed on the video stream in real time.
